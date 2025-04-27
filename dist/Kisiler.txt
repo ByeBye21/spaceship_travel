@@ -1,0 +1,11 @@
+Mehmet#10#100#A
+Derya#15#150#B
+Can#20#300#A
+Yunus#25#3600#C
+Bora#30#300#D
+Selin#35#500#A
+Ali#40#2400#C
+Zeynep#45#2000#A
+Emre#50#720#C
+Mert#55#400#E
+Elif#60#100#B
